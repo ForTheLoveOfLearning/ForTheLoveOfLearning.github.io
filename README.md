@@ -15,14 +15,12 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 #### Discover Data Analysis
 
-
 - From data to business insights with Power BI
 - Different types of analysis
 - Tasks of a Data Analyst
 
 
 #### Get started building with Power BI
-
 
 - Introduction to Power BI environment
 - The flow of Power BI
@@ -52,6 +50,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 - Dynamic reports with parameters
 - Performance recommendations
 -------------------------------------
+
 ### Model Data
 
 #### Design a semantic model in Power BI
@@ -61,8 +60,6 @@ Don't forget to star (🌟) this repo to find it easier later.
 - Edit relationships
 - Implications of circular relationships
 - How to use hierarchies for data fields
-
-
 
 1. **📈 Modelling 101**
    - **⭐ Star Schema**: About Star Schema
@@ -102,7 +99,6 @@ Don't forget to star (🌟) this repo to find it easier later.
 - Hide visual calculations
 - Use the Axis parameter
 - Use the Reset parameter
-
 -------------------------
 
 ### Visualize
@@ -116,6 +112,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 - Design an appealing report layout
 - Cross-highlight between visuals
 - Drill down through a hierarchy in a visual
+  
 #### Enhance Reports
 - Design functional report navigation
 - Use the Slicer visual to provide on-report filtering
@@ -125,6 +122,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 - Use selection order for accessibility
 - Drill through from one visual to another
 - Choose when to use paginated reports
+  
 #### Create dashboards
 - What is a Power BI dashboard
 - Pin visuals to a dashboard
@@ -135,7 +133,6 @@ Don't forget to star (🌟) this repo to find it easier later.
 ---------------------------
 
 ### Analyze
-
 #### Perform advanced analytics
 - Compare data with Analyze feature
 - Group and bin data
