@@ -11,6 +11,9 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 ## Content
 
+[Mindmap](https://ForTheLoveOfLearning.github.io/PL-300_Day_1.svg) 
+<img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_1.svg">
+
 ### Prepare
 
 #### Discover Data Analysis
