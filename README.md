@@ -63,7 +63,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 1. **📈 Modelling 101**
    - **⭐ Star Schema**: About Star Schema
-   - **❄️ Snowflake Schema**: About Snowflake SchemaDefines the region, number of instances, and pricing tier for your App Service.
+   - **❄️ Snowflake Schema**: About Snowflake Schema
 
 2. **Relationships**
    - **Cardinality**: 
