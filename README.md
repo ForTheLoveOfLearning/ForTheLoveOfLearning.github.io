@@ -33,7 +33,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 - [DP-600 Microsoft Fabric Analytics Engineer Associate Course](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
   
 # Learning Excellence Resources📒
-
+- [Full Course Mindmaps](https://azurebrainwave.github.io/?id=power-bi-data-analyst-associate-pl-300-mindmaps)
 
 
 
