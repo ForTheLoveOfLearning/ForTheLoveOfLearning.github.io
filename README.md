@@ -9,17 +9,17 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 ## Content
 
-[Mindmap](https://ForTheLoveOfLearning.github.io/PL-300_Day_1.svg) 
+[Mindmap with Links](https://ForTheLoveOfLearning.github.io/PL-300_Day_1.svg) 
 <img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_1.svg">
 
 -------------------------------------
 
-[Mindmap](https://ForTheLoveOfLearning.github.io/PL-300_Day_2.svg) 
+[Mindmap with Links](https://ForTheLoveOfLearning.github.io/PL-300_Day_2.svg) 
 <img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_2.svg">
 
 ---------------------------------------
 
-[Mindmap](https://ForTheLoveOfLearning.github.io/PL-300_Day_3.svg) 
+[Mindmap with Links](https://ForTheLoveOfLearning.github.io/PL-300_Day_3.svg) 
 <img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_3.svg">
 
 --------------------------------------
@@ -31,9 +31,20 @@ Don't forget to star (🌟) this repo to find it easier later.
 ### Intro to Microsoft Fabric
 - [Microsoft Fabric Product Page](https://www.microsoft.com/en-us/microsoft-fabric?msockid=186ce81abd2b6726173bfcc9bc29666a)
 - [DP-600 Microsoft Fabric Analytics Engineer Associate Course](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
+
   
 # Learning Excellence Resources📒
 - [Full Course Mindmaps](https://azurebrainwave.github.io/?id=power-bi-data-analyst-associate-pl-300-mindmaps)
+
+## External Resources
+
+### Prepare the Data
+
+### Model the Data
+- [Bi-directional relationships and ambiguity in DAX](https://www.sqlbi.com/articles/bidirectional-relationships-and-ambiguity-in-dax/)
+
+### Visualise the Data
+- [Visual Vocabulary](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-measures)
 
 
 
