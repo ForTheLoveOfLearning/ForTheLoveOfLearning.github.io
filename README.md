@@ -37,6 +37,16 @@ Don't forget to star (🌟) this repo to find it easier later.
 - [Privacy Levels for Data Sources](https://learn.microsoft.com/en-us/power-bi/enterprise/desktop-privacy-levels)
 - [Usind PBIDS files](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources#use-pbids-files-to-get-data)
 
+Power BI File Type Comparison
+
+| **File Type** | **Description** | **Purpose** | **Contains** |
+|---------------|-----------------|-------------|--------------|
+| **.pbix**     | Power BI Desktop File | Used for creating and sharing complete Power BI reports | Data models, reports, visualizations, and queries
+| **.pbit**     | Power BI Template File | Used for sharing report templates without data | Report structure without actual data
+| **.pbip**     | Power BI Project File | Used for scriptable deployment and management of Power BI models | Tabular Model Scripting Language (TMSL) or Tabular Model Definition Language (TMDL) scripts
+| **.pbids**    | Power BI Data Source File | Used for simplifying connections to data sources | JSON configuration for data source connections |
+
+
 ### Model the Data
 - [Bi-directional relationships and ambiguity in DAX](https://www.sqlbi.com/articles/bidirectional-relationships-and-ambiguity-in-dax/)
 
