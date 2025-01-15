@@ -60,6 +60,13 @@ Power BI File Type Comparison
 - [Study Guide for PL-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
 - [PL-300 Course Content](https://aka.ms/pl300)
 
+### Analyze the Data
+- [Grouping vs Binning](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-grouping-and-binning)
+- [Analyze Feature on Visuals](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-analyze-visuals)
+
+### Manage the Data
+- [Incremental Refresh](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-configure)
+
 ## Other Content
 ### Explore Copilot for Power BI
 - [Introduction to Copilot for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction?ns-enrollment-type=Collection&ns-enrollment-id=nq2bdzdox7pr2)
