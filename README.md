@@ -55,17 +55,17 @@ Power BI File Type Comparison
 - [Visual Vocabulary](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
 - [Visuals in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)
 
-### PL-300 Examination Resources
-- [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=pl-300)
-- [Study Guide for PL-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
-- [PL-300 Course Content](https://aka.ms/pl300)
-
 ### Analyze the Data
 - [Grouping vs Binning](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-grouping-and-binning)
 - [Analyze Feature on Visuals](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-analyze-visuals)
 
 ### Manage the Data
 - [Incremental Refresh](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-configure)
+
+### PL-300 Examination Resources
+- [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=pl-300)
+- [Study Guide for PL-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
+- [PL-300 Course Content](https://aka.ms/pl300)
 
 ## Other Content
 ### Explore Copilot for Power BI
