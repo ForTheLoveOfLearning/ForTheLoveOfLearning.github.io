@@ -35,7 +35,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 ### Prepare the Data
 - [Privacy Levels for Data Sources](https://learn.microsoft.com/en-us/power-bi/enterprise/desktop-privacy-levels)
-- [Usind PBIDS files](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources#use-pbids-files-to-get-data)
+- [Using PBIDS files](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources#use-pbids-files-to-get-data)
 
 Power BI File Type Comparison
 
