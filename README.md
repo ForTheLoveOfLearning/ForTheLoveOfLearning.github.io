@@ -28,7 +28,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 
   
-##Learning Excellence Resources📒
+## Learning Excellence Resources📒
 - [Full Course Mindmaps](https://azurebrainwave.github.io/?id=power-bi-data-analyst-associate-pl-300-mindmaps)
 
 ## External Resources
