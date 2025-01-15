@@ -52,7 +52,7 @@ Power BI File Type Comparison
 
 ### Visualise the Data
 - [Tips and Tricks for Creating Reports](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-tips-and-tricks-for-creating-reports)
-- [Visual Vocabulary](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-measures)
+- [Visual Vocabulary](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
 - [Visuals in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)
 
 ### PL-300 Examination Resources
