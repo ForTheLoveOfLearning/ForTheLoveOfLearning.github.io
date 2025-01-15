@@ -9,17 +9,17 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 ## Content
 
-[Mindmap](https://ForTheLoveOfLearning.github.io/PL-300_Day_1.svg) 
+[Mindmap](https://fortheloveoflearning.github.io/PL-300_Day_1.svg) 
 <img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_1.svg">
 
 -------------------------------------
 
-[Mindmap](https://ForTheLoveOfLearning.github.io/PL-300_Day_2.svg) 
+[Mindmap](https://fortheloveoflearning.github.io/PL-300_Day_2.svg) 
 <img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_2.svg">
 
 ---------------------------------------
 
-[Mindmap](https://ForTheLoveOfLearning.github.io/PL-300_Day_3.svg) 
+[Mindmap](https://fortheloveoflearning.github.io/PL-300_Day_3.svg) 
 <img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_3.svg">
 
 --------------------------------------
