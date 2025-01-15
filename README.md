@@ -55,6 +55,11 @@ Power BI File Type Comparison
 - [Visual Vocabulary](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-measures)
 - [Visuals in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)
 
+### PL-300 Examination Resources
+- [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=pl-300)
+- [Study Guide for PL-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
+- [PL-300 Course Content](https://aka.ms/pl300)
+
 ## Other Content
 ### Explore Copilot for Power BI
 - [Introduction to Copilot for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction?ns-enrollment-type=Collection&ns-enrollment-id=nq2bdzdox7pr2)
