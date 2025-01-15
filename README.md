@@ -9,17 +9,17 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 ## Content
 
-[Mindmap](https://fortheloveoflearning.github.io/PL-300_Day_1.svg) 
+
 <img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_1.svg">
 
 -------------------------------------
 
-[Mindmap](https://fortheloveoflearning.github.io/PL-300_Day_2.svg) 
+
 <img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_2.svg">
 
 ---------------------------------------
 
-[Mindmap](https://fortheloveoflearning.github.io/PL-300_Day_3.svg) 
+
 <img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_3.svg">
 
 --------------------------------------
@@ -63,7 +63,7 @@ Power BI File Type Comparison
 ## Other Content
 ### Explore Copilot for Power BI
 - [Introduction to Copilot for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction?ns-enrollment-type=Collection&ns-enrollment-id=nq2bdzdox7pr2)
-  
+
 ### Intro to Microsoft Fabric
 - [Microsoft Fabric Product Page](https://www.microsoft.com/en-us/microsoft-fabric?msockid=186ce81abd2b6726173bfcc9bc29666a)
 - [DP-600 Microsoft Fabric Analytics Engineer Associate Course](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
