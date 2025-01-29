@@ -31,8 +31,10 @@ Don't forget to star (🌟) this repo to find it easier later.
 ## Learning Excellence Resources📒
 - [Full Course Mindmaps](https://azurebrainwave.github.io/?id=power-bi-data-analyst-associate-pl-300-mindmaps)
 
-## External Resources
+### PL-300 Examination Resources
+- ⭐⭐⭐[PL-300 Exam Prep Mindmap](https://aka.ms/PL-300/ExamPrepBoard)
 
+## External Resources
 ### Prepare the Data
 - [Privacy Levels for Data Sources](https://learn.microsoft.com/en-us/power-bi/enterprise/desktop-privacy-levels)
 - [Using PBIDS files](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources#use-pbids-files-to-get-data)
@@ -62,12 +64,9 @@ Power BI File Type Comparison
 ### Manage the Data
 - [Incremental Refresh](https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-configure)
 
-### PL-300 Examination Resources
-- [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=pl-300)
-- [Study Guide for PL-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
-- [PL-300 Course Content](https://aka.ms/pl300)
 
-## Other Content
+
+## Other Power BI Related Content
 ### Explore Copilot for Power BI
 - [Introduction to Copilot for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction?ns-enrollment-type=Collection&ns-enrollment-id=nq2bdzdox7pr2)
 
@@ -75,4 +74,5 @@ Power BI File Type Comparison
 - [Microsoft Fabric Product Page](https://www.microsoft.com/en-us/microsoft-fabric?msockid=186ce81abd2b6726173bfcc9bc29666a)
 - [DP-600 Microsoft Fabric Analytics Engineer Associate Course](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
 
-
+### Power BI for End Users
+- [Detailed Inforamtion around Business Users Access to Reports and Dashboards in Power BI](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-license}
