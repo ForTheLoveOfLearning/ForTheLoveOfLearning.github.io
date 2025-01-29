@@ -75,4 +75,4 @@ Power BI File Type Comparison
 - [DP-600 Microsoft Fabric Analytics Engineer Associate Course](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
 
 ### Power BI for End Users
-- [Detailed Inforamtion around Business Users Access to Reports and Dashboards in Power BI](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-license}
+- [Detailed Information around Business Users Access to Reports and Dashboards in Power BI](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-license)
