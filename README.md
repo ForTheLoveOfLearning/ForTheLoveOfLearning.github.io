@@ -20,7 +20,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 ---------------------------------------
 
 
-<img src="https://ForTheLoveOfLearning.github.io/PL-300_Day_3.svg">
+<img src="https://raw.githubusercontent.com/ForTheLoveOfLearning/ForTheLoveOfLearning.github.io/refs/heads/main/PL-300_Day_3.svg">
 
 --------------------------------------
 
